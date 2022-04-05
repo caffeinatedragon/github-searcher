@@ -8,7 +8,7 @@ Specifically, it supports searching for:
 * The minimum number of public repos a user has
 * The programming language in a user’s public repos
 
-For more information, including a walkthrough of how to use GitHub's Search API, check out the [Project Wiki](** LINK GOES HERE **).
+For more information, including a walkthrough of how to use GitHub's Search API, check out the [Project Wiki](https://github.com/caffeinatedragon/github-searcher/wiki).
 
 
 ## Getting Started
